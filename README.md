@@ -6,4 +6,4 @@
 
 <h2>Preview del desafio finalizado<h2>
 
-<img src="https://github.com/XmauricioX/MERCADO_LIEBRE_4_FlexBox/tree/main/public/images/preview">
+<img src="https://github.com/XmauricioX/MERCADO_LIEBRE_4_FlexBox/tree/main/public/images/preview.png">
