@@ -254,6 +254,7 @@ article:hover{
     main section {
         width: 100%;
         display: flex;
+        justify-content: space-around;
         flex-direction: row;
         flex-wrap: wrap;
     }
@@ -262,7 +263,7 @@ article:hover{
     }
     main section article{
         max-width: 200px;
-        margin: 20px 40px;
+        margin: 10px 20px;
     }
     main section article .oferta{
         font-size: 11px;
