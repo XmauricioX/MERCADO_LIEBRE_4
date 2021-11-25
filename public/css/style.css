@@ -66,8 +66,7 @@ header nav ul li a{
     text-decoration: none;
     color: black;
 }
-header nav ul{
-    list-style: none;
+#nav{
     display: none;
 }
 .burger-menu i{
@@ -236,17 +235,18 @@ article:hover{
     header nav ul li{
         font-size: 11px;
         margin-right: 10px;
-    }
-    header nav ul{
-        display: inline-flex;
-        margin:0 auto;
-    }
+    }    
     .burger-menu{
         display: none;
     }
-
-
-
+    header nav ul{
+        list-style: none;
+        display: flex;
+    }
+    #nav{
+        display: flex;
+        justify-content: space-between;
+    }
     main h2{
         text-align: start;
         margin: 15px 8%;
