@@ -1,4 +1,4 @@
-# -Mercado Liebre Diseño Adaptativo
+# -Mercado Liebre Diseño Avanzado Con FlexBox
 
 ## Desafio frontend del curso FullStack de Digital House
 

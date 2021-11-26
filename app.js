@@ -16,7 +16,3 @@ app.listen(port,() => console.log(` server on port ${port}\n http://localhost:${
 app.get("/",(req,res) => {
     res.sendFile(path.join(__dirname,"/views/home.html"))
 });
-
-app.get("/registro",(req,res) => {
-    res.sendFile(path.join(__dirname,"/views/registro.html"))
-});
